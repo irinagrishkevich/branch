@@ -5,7 +5,8 @@
 }
 
 h1{
-    background: #000000;
+    background: #fcb1b1;
+    text-transform: none;
     display: block;
     border-radius:50%;
     text-decoration: underline;
